@@ -1,0 +1,11 @@
+/Users/wgunnells/Desktop/crash course/throw/obj/Debug/netcoreapp2.1/throw.csprojAssemblyReference.cache
+/Users/wgunnells/Desktop/crash course/throw/obj/Debug/netcoreapp2.1/throw.csproj.CoreCompileInputs.cache
+/Users/wgunnells/Desktop/crash course/throw/obj/Debug/netcoreapp2.1/throw.AssemblyInfoInputs.cache
+/Users/wgunnells/Desktop/crash course/throw/obj/Debug/netcoreapp2.1/throw.AssemblyInfo.cs
+/Users/wgunnells/Desktop/crash course/throw/bin/Debug/netcoreapp2.1/throw.deps.json
+/Users/wgunnells/Desktop/crash course/throw/bin/Debug/netcoreapp2.1/throw.runtimeconfig.json
+/Users/wgunnells/Desktop/crash course/throw/bin/Debug/netcoreapp2.1/throw.runtimeconfig.dev.json
+/Users/wgunnells/Desktop/crash course/throw/bin/Debug/netcoreapp2.1/throw.dll
+/Users/wgunnells/Desktop/crash course/throw/bin/Debug/netcoreapp2.1/throw.pdb
+/Users/wgunnells/Desktop/crash course/throw/obj/Debug/netcoreapp2.1/throw.dll
+/Users/wgunnells/Desktop/crash course/throw/obj/Debug/netcoreapp2.1/throw.pdb

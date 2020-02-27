@@ -1,0 +1,11 @@
+/Users/wgunnells/Desktop/crash course/democlass/obj/Debug/netcoreapp2.1/democlass.csprojAssemblyReference.cache
+/Users/wgunnells/Desktop/crash course/democlass/obj/Debug/netcoreapp2.1/democlass.csproj.CoreCompileInputs.cache
+/Users/wgunnells/Desktop/crash course/democlass/obj/Debug/netcoreapp2.1/democlass.AssemblyInfoInputs.cache
+/Users/wgunnells/Desktop/crash course/democlass/obj/Debug/netcoreapp2.1/democlass.AssemblyInfo.cs
+/Users/wgunnells/Desktop/crash course/democlass/bin/Debug/netcoreapp2.1/democlass.deps.json
+/Users/wgunnells/Desktop/crash course/democlass/bin/Debug/netcoreapp2.1/democlass.runtimeconfig.json
+/Users/wgunnells/Desktop/crash course/democlass/bin/Debug/netcoreapp2.1/democlass.runtimeconfig.dev.json
+/Users/wgunnells/Desktop/crash course/democlass/bin/Debug/netcoreapp2.1/democlass.dll
+/Users/wgunnells/Desktop/crash course/democlass/bin/Debug/netcoreapp2.1/democlass.pdb
+/Users/wgunnells/Desktop/crash course/democlass/obj/Debug/netcoreapp2.1/democlass.dll
+/Users/wgunnells/Desktop/crash course/democlass/obj/Debug/netcoreapp2.1/democlass.pdb
